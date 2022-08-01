@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @KPprograms
-- 👀 I’m interested in network programming and java programming. 
-- 🌱 I’m currently learning programming in java and C. I have interests in Python and JavaScript.
+Software Engineering Student.
+
+Interested in learning new programming languages and mordern styles of programmming.
+
+
 - 📫 How to reach me: email me on kevinpaullee@gmail.com
 
 <!---
