@@ -1,6 +1,6 @@
 Software Engineering Student.
 
-Learning how to Program
+Learning how to Program.
 Interested in learning new programming languages and mordern styles of programmming.
 
 
