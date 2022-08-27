@@ -1,6 +1,6 @@
 Software Engineering Student.
 
-Just enjoy programming :)
+I Just enjoy programming :)
 
 
 - 📫 How to reach me: email me on kevinpaullee@gmail.com
