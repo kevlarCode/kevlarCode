@@ -1,8 +1,6 @@
 Software Engineering Student.
 
-Learning how to Program.
-Interested in learning new programming languages and mordern styles of programmming.
-
+Just enjoy programming :)
 
 
 - 📫 How to reach me: email me on kevinpaullee@gmail.com
