@@ -10,7 +10,7 @@ Feel free to reach out to me if you have similiar interests and want to collabor
 Get in Touch 📫
 * email: kevinpaullee@gmail.com
 * [Linkedin](https://www.linkedin.com/in/kevin-paul-lee-514776241/)
-* [Discord](www.discordapp.com/users/639760969165438988) 
+* [Discord](https://www.discordapp.com/users/639760969165438988) 
 
 
 Thanks for visiting! Happy coding! 🚀
